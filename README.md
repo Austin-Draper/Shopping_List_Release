@@ -1,0 +1,1 @@
+# build-Shopping_List-Desktop_Qt_5_11_2_MSVC2015_64bit-Release
