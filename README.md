@@ -6,7 +6,7 @@ The twilio_cpp_demo folder was taken directly off the twilio website and the cpp
 ## Running the Program
 Since this program is using a local MySQL server, this program will not run unless you look through the source code and build your own server (or alter the code to fit your own server). There is a word document called "UserManual" that shows everything this application is capable of in detail with pictures.
 Listed below is a picture of what the main application looks like.
-![alt text](https://raw.github.com/Austin-Draper/Shopping_List_Release/tree/master/AppPictures/EveryRightOption.png)
+![alt text](https://github.com/Austin-Draper/Shopping_List_Release/tree/master/AppPictures/EveryRightOption.png)
 ##
 ## License
 Copyright © 2019, [Austin Draper](https://github.com/Austin-Draper). Released under the [MIT License](LICENSE).
