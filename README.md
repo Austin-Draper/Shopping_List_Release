@@ -4,8 +4,9 @@ This is a program utilizing Qt, C++, MySQL with XAMPP, and a third party service
 The twilio_cpp_demo folder was taken directly off the twilio website and the cpp_demo.cc file has been altered to fit this applications needs.
 ##
 ## Running the Program
-Since this program is using a local MySQL server, this program will not run unless you look through the source code and build your own server (or alter the code to fit your own server). There is a pictures folder that shows everything this application is capable of in detail.
-(list 2 pictures here. one of the login and the other of the homepage with stuff listed on both sides)
+Since this program is using a local MySQL server, this program will not run unless you look through the source code and build your own server (or alter the code to fit your own server). There is a word document called "UserManual" that shows everything this application is capable of in detail with pictures.
+Listed below is a picture of what the main application looks like.
+
 ##
 ## License
 Copyright © 2019, [Austin Draper](https://github.com/Austin-Draper). Released under the [MIT License](LICENSE).
