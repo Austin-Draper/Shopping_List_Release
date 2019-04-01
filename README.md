@@ -8,6 +8,7 @@ Since this program is using a local MySQL server, this program will not run unle
 Listed below is a picture of what the main application looks like.
 ![alt text](https://github.com/Austin-Draper/Shopping_List_Release/tree/master/AppPictures/EveryRightOption.png)
 ![more alt text](https://github.com/Austin-Draper/Shopping_List_Release/tree/master/AppPictures/EveryRightOption.png?raw=true "Optional Title")
+<img src="https://github.com/Austin-Draper/Shopping_List_Release/tree/master/AppPictures/EveryRightOption.png" alt="My cool logo"/>
 ##
 ## License
 Copyright © 2019, [Austin Draper](https://github.com/Austin-Draper). Released under the [MIT License](LICENSE).
